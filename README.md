@@ -38,6 +38,6 @@ The code utilizes various visualization techniques to explore and present insigh
      cleans the data by dropping irrelevant columns.
    * A pie chart is created using px.pie to visualize the distribution of 
      vaccination between males and females.
-* Top 5 and bottom 5 vaccinated states:
-   * The code generates bar plots to display the top 5 and bottom 5 states in 
+* Top 5 and least 5 vaccinated states:
+   * The code generates bar plots to display the top 5 and least 5 states in 
      terms of the total number of individuals vaccinated.
